@@ -1,2 +1,2 @@
 # -google-cybersecurity-portfolio
-    jects from Google Cybersecurity Certificate
+    projects from Google Cybersecurity Certificate
