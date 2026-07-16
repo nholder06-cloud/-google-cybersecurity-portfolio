@@ -4,3 +4,20 @@ Nigel Holder — Cybersecurity Analyst Portfolio
 This portfolio showcases my hands‑on cybersecurity work across security operations, risk management, cloud security, and technical analysis. It reflects the practical skills I developed through the Google Cybersecurity Certificate, independent projects, and ongoing preparation for the CompTIA Security+ certification.
 
 My goal is to contribute to a security team by applying strong analytical thinking, attention to detail, and a structured approach to protecting systems, data, and users.
+google-cybersecurity-portfolio/
+├── README.md
+├── sql-analysis/
+│   ├── README.md
+│   ├── employee-department-filter.sql
+│   └── login-attempts-date-range.sql
+├── python-scripts/
+│   ├── login-ratio-calculator.py
+│   ├── failed-login-tracker.py
+│   └── ip-allowlist-validator.py
+├── network-analysis/
+│   ├── http-incident-analysis.md
+│   ├── tcp-packet-filtering.png
+│   └── frame-length-analysis.png
+└── linux-security/
+    ├── linux-permissions-audit.md
+    └── permission-changes.png
