@@ -1,4 +1,4 @@
-# -google-cybersecurity-portfolio
+#cybersecurity-portfolio
     projects from Google Cybersecurity Certificate
 Nigel Holder — Cybersecurity Analyst Portfolio
 This portfolio showcases my hands‑on cybersecurity work across security operations, risk management, cloud security, and technical analysis. It reflects the practical skills I developed through the Google Cybersecurity Certificate, independent projects, and ongoing preparation for the CompTIA Security+ certification.
